@@ -1,0 +1,7 @@
+# Governance-sensitive paths require code-owner review (effective only once the
+# main-branch ruleset in docs/governance/main-ruleset.json is applied in Settings).
+# Add the independent reviewer's GitHub handle beside the owner when enrolled.
+*                       @ConorTttttt
+/.github/               @ConorTttttt
+/docs/governance/       @ConorTttttt
+/SECURITY.md            @ConorTttttt
